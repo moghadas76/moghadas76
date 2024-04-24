@@ -9,7 +9,7 @@
 - 📫 How to reach me: s.m.moghadas2012@gmail.com
 - 😄 Pronouns: mamad!
 - ⚡ Fun fact: left-handed!
-
+- The colorful CV is available at [Link](https://jobii.be/cv/3vXDDXnEaRm9ztgTTbZT)
 
 ## General Stats
 
