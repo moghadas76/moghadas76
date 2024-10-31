@@ -17,5 +17,5 @@
 
 ## Publications
 
-~~~~> [Schola](https://scholar.google.com/citations?user=o-syUWMAAAAJ&hl=en) <~~~~
+~~~~> ![Scholar](https://scholar.google.com/citations?user=o-syUWMAAAAJ&hl=en) <~~~~
 
