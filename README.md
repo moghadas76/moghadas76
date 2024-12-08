@@ -8,6 +8,14 @@
 - 💬 Ask me about deep learning - software engineering - python(pytorch - Fastapi)-MLOPS- Kubernetes
 - 📫 How to reach me: s.m.moghadas2012@gmail.com
 - 😄 Pronouns: mamad!
+- Languages:
+  Python(Native)
+  C++
+  Java
+  Go
+  SQL
+  Javascript
+  Rust
 - ⚡ Fun fact: left-handed!
 - The colorful CV is available at [Link](https://jobii.be/cv/3vXDDXnEaRm9ztgTTbZT)
 
