@@ -11,11 +11,12 @@
 - Languages:
   Python(Native)
   C++
-  Java
-  Go
   SQL
   Javascript
   Rust
+  Java
+  Go
+
 - ⚡ Fun fact: left-handed!
 - The colorful CV is available at [Link](https://jobii.be/cv/3vXDDXnEaRm9ztgTTbZT)
 
