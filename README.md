@@ -18,7 +18,6 @@
   Go
 
 - ⚡ Fun fact: left-handed!
-- The colorful CV is available at [Link](https://jobii.be/cv/3vXDDXnEaRm9ztgTTbZT)
 
 ## General Stats
 
