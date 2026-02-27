@@ -30,4 +30,7 @@ https://github.com/user-attachments/assets/bc76594e-d276-473c-832b-af1bd50a8197
 ## Publications
 * [Scholar](https://scholar.google.com/citations?user=o-syUWMAAAAJ&hl=en)
 
+## Wikis
+* [SysOPS](https://github.com/moghadas76/Terraform_gcp/wiki/Cheet-Sheet-revision)
+
 
