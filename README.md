@@ -1,10 +1,6 @@
 ### Hi 👋
 
 
-
-https://github.com/user-attachments/assets/bc76594e-d276-473c-832b-af1bd50a8197
-
-
 - Open Source Contributor
 - 🔭 I’m currently working on spatial-tmoral graph neural netowrks academically and also working on bulding django applications in the network managing industry as software egineer. 
 - 🌱 I’m currently learning advanced deep learning, MLOPS and software architecture to be an elegant product manager.
